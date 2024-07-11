@@ -19,6 +19,13 @@ This project leverages AWS services to analyze Spotify data using Excel (CSV) da
 
 The goal of this project is to analyze Spotify data to gain insights into artists, albums, and tracks. By using AWS services, we aim to create a scalable and efficient data analysis pipeline.
 
+![image](https://github.com/Anirban3456/Spotify_DashBoard_on_AWS/assets/118114203/b47c8578-adb6-46b1-9d59-a01febd1a441)
+The Spotify Dashboard.
+
+![Untitled](https://github.com/Anirban3456/Spotify_DashBoard_on_AWS/assets/118114203/80d503fd-eff5-4213-be42-011718313a3b)
+
+![Screenshot 2024-07-11 131248](https://github.com/Anirban3456/Spotify_DashBoard_on_AWS/assets/118114203/9d00c87f-19b3-4c5d-8af9-1f23c4da3cf4)
+AWS glue pipeline.
 
 ## Architecture
 
@@ -32,6 +39,9 @@ The goal of this project is to analyze Spotify data to gain insights into artist
 - `artists.csv`: Contains data about artists.
 - `albums.csv`: Contains data about albums.
 - `tracks.csv`: Contains data about tracks.
+
+![Screenshot 2024-07-10 011543](https://github.com/Anirban3456/Spotify_DashBoard_on_AWS/assets/118114203/2872d7fa-0057-4564-8547-c087daa7a7dc)
+The final Database.
 
 ## AWS Services Used
 
